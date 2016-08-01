@@ -13,7 +13,7 @@ a, img { outline: none; border:none; color: #000; font-weight: bold; text-transf
 p { margin: 0 0 10px; line-height: 1.4em; font-size: 1.2em;}
 img { display: block; margin-bottom: 10px;}
 
- details, figcaption, figure,
+ details, figure,
 footer, header, hgroup, menu, nav, section { 
     display: block;
 	}
